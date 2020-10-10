@@ -1,0 +1,10 @@
+.set-div{
+    display: flex;
+ display: flex;
+ justify-content: flex-start;
+    width: 60%;
+    height: 150px;
+    margin: auto;
+    align-items: center;
+    font-size: x-large;
+}

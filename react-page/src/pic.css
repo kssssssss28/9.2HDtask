@@ -1,0 +1,46 @@
+.picBox{
+
+display: flex;
+ flex-direction: column;
+    margin: auto;
+
+    
+}
+
+.pic{
+
+    width: 400px;
+    height: 400px;
+
+    border-radius: 10%;
+   
+}
+.fup{
+    opacity: 0;
+}
+.content3{
+
+    margin-left: 0;
+
+    margin-top: 13%;
+    align-self: center;
+}
+
+.content2{
+   margin:auto;
+}
+.content1{
+margin-top: 50px;
+background-color: rgb(34, 177, 255);
+width:auto;
+margin: auto;
+margin-top: 5%;
+height: auto;
+border-radius: 4em;
+}
+.p{
+margin-top: -10px;
+font-size: x-small; 
+padding: auto;
+color: honeydew;
+}

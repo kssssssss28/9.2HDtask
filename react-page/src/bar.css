@@ -1,0 +1,14 @@
+.bar{
+    display: flex;
+    background-color: rgb(34, 177, 255);
+    width: 90%;
+    padding: 15px;
+    color: white;
+    margin: auto;
+    margin-top: 2%;
+    font-size: x-large;
+    font-weight: 900;
+    border-radius: 100px;
+    text-align: center;
+   
+}
